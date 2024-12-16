@@ -1,4 +1,4 @@
-# RAG-Qustion-Answering-Pipeline
+# RAG-Question-Answering-Pipeline
 
 A Retrieval Augmented Generation Pipeline using Lang chain framework.
 
